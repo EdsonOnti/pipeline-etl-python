@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "tu_usuario",
+    "password": "tu_password",
+    "database": "test_asdi",
+    "port": 3306
+}

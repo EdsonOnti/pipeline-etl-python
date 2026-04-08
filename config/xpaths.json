@@ -1,0 +1,8 @@
+{
+    "amazon_search_box": "xpath=//input[@id='twotabsearchtextbox'] | //input[@name='field-keywords']",
+    "amazon_search_button": "xpath=//input[@id='nav-search-submit-button'] | //input[@type='submit']",
+    "amazon_results_container": "xpath=//div[@data-component-type='s-search-result']",
+    "item_title": "xpath=.//h2//span",
+    "item_price": "xpath=.//span[contains(@class, 'a-price')]//span[contains(@class, 'a-offscreen')]",
+    "item_delivery": "xpath=.//*[contains(text(), 'Entrega GRATIS') or contains(text(), 'Recíbelo') or contains(text(), 'GRATIS') or contains(text(), 'entrega gratis') or contains(text(), 'recíbelo') or contains(text(), 'llega')]"
+}

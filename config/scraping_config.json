@@ -1,0 +1,10 @@
+{
+    "url": "https://www.amazon.com.mx",
+    "search_term": "CHOCOLATES",
+    "max_initial_results": 25,
+    "max_per_brand": 10,
+    "target_brands": ["Turin", "Nestlé", "Nestle"],
+    "output_file": "chocolates_output.csv",
+    "encoding": "cp1252",
+    "separator": "|"
+}
