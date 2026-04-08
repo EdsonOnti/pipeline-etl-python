@@ -1,4 +1,4 @@
-# Pipeline ETL — Automatización y Análisis de Datos
+# Pipeline ETL — Automatización
 
 Proyecto de prueba técnica que implementa un pipeline de datos completo en Python, cubriendo extracción desde Excel, limpieza y transformación, persistencia en base de datos MySQL y web scraping con automatización de navegador.
 
